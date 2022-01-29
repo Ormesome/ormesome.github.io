@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: "the about page"
+title: "The About Page"
 ---
 
 # About

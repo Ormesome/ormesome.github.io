@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Index Page"
+title: "The Index Page"
 ---
 # The leading header
 
