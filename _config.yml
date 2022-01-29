@@ -17,7 +17,7 @@ title: Ormesome's Github Pages Site
 email: david.orme@outlook.com
 description: A site to say how awesome I am.
 baseurl: "" # the subpath of your site, e.g. /blog
-show_downloads: "false"
+show_downloads: false
 url: "https://ormesome.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: "ormesome"
 #github_username:  "ormesome"
