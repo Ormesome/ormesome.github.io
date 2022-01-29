@@ -21,3 +21,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * [About Me](./about.html)
 * [Contact](./_site/contact.html)
 * [Blog](./blog.html)
+* [Projects](./projects.html)
