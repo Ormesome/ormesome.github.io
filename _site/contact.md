@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /_site/
+permalink: /_site
 ---
 
 # Contact

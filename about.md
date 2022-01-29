@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "the about page"
 ---
 
 # About
