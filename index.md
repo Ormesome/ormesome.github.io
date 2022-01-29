@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The landing page
+title: Ormesome's homepage
 ---
 # The leading header
 
