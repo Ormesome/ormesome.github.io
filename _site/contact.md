@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Contact"
+permalink: /_site/
 ---
 
 # Contact
