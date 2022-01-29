@@ -16,3 +16,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 * [About Me](_site_/about.html)
 * [Contact](_site_/contact.html)
+* [Blog](blog.html)
