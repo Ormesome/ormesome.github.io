@@ -1,5 +1,4 @@
 ---
-layout: subpage
 title: "The About Page"
 ---
 
