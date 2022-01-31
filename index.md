@@ -1,7 +1,7 @@
 ---
 title: "The Index Page"
 ---
-![Ormesome Logo](/assets/images/logo-white.png)
+![Ormesome Logo](/assets/images/logo-white-25.png)
 
 # The leading header
 
