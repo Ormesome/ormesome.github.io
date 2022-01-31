@@ -162,7 +162,7 @@ dt {
 }
 
 header {
-  padding: 0px 0px 0px 0px;
+  padding: 25px 20px 40px 20px;
   margin: 0;
   position: fixed;
   top: 0;
@@ -177,7 +177,6 @@ header {
   min-height: 76px;
 
   h1 {
-    padding: 25px 20px 40px 20px;
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #f3f3f3;
     text-shadow: 0px 2px 0px #235796;
@@ -190,7 +189,6 @@ header {
   }
 
   p {
-    padding: 25px 20px 40px 20px;
     color: #d8d8d8;
     text-shadow:rgba(#000, 0.2) 0 1px 0;
     font-size: 18px;
