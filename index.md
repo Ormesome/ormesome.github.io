@@ -1,7 +1,6 @@
 ---
 title: "The Index Page"
 ---
-![Ormesome Logo](/assets/images/logo-white-25.png)
 
 # The leading header
 
@@ -23,3 +22,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * [Contact](./contact.html)
 * [Blog](./blog.html)
 * [Projects](./projects.html)
+
+![Ormesome Logo](/assets/images/logo-white-25.png)
