@@ -34,6 +34,6 @@ defaults:
     values:
       layout: "default"
 
-permalink: date
+permalink: /:year/:month/:day/:title:output_ext
 
 include: ['_pages']
