@@ -1,5 +1,6 @@
 ---
 title: "The Contact Page"
+permalink: /contact.html
 ---
 
 # Contact
