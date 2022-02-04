@@ -35,3 +35,5 @@ defaults:
       layout: "default"
 
 permalink: date
+
+include: ['_pages']
