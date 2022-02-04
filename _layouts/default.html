@@ -26,7 +26,7 @@
 
           <!-- <span id="logo"></span> -->
           
-        <span class="fork">
+        <span class="navigation">
           {% for item in site.data.navigation %}
             <a href="{{ item.link }}" {% if page.url == item.link %}class="current buttonfixedwidth"{% else %}class="buttonfixedwidth"{% endif %}>{{ item.name }}</a>
           {% endfor %}
