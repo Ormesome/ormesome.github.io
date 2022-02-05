@@ -367,7 +367,7 @@ nav {
     line-height:24px;
 
     li {
-      padding: 5px 0px 5px;
+      padding: 5px 0px;
       line-height: 16px;
       // padding-right:17px;
       // position:relative;
@@ -405,6 +405,17 @@ nav {
     //   padding-right:13px;
     // }
   }
+}
+
+ul {
+  list-style: none;
+  list-style-image:none;
+  font-size: 14px;
+  line-height:24px;
+
+  li {
+    padding: 5px 0px 5px;
+    line-height: 16px;
 }
 
 footer {
