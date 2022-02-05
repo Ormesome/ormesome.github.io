@@ -8,13 +8,7 @@ title: "Blogs"
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.excerpt }}
-      Categories:
-      <ul>
-        {% for category in post.categories %}
-        <li>category</li>
-        {% endfor %}
-      </ul>
-      <!-- <strong>Categories:</strong> {{ post.categories  | array_to_sentence_string}} -->
+      {{ post.categories  | array_to_sentence_string}} -->
     </li>
   {% endfor %}
 </ul>
