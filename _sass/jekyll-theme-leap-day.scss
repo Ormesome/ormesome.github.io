@@ -323,7 +323,7 @@ header {
   padding: 5px 6px;
   line-height:14px;
   font-size:14px;
-  color:#333;
+  color:rgb(243, 243, 243);
   font-weight: bold;
   display:inline-block;
   text-align:center;
@@ -331,7 +331,7 @@ header {
 
   &:hover {
     background: linear-gradient(rgb(66, 133, 182), rgb(66, 118, 182));
-    background-color: #ffeca0;
+    background-color: rgb(66, 133, 182);
   }
 }
 
