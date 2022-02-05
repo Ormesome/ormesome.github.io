@@ -3,12 +3,8 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 
-<p>
-  <a href="{{ page.external_url }}">Hosted</span></a>
-</p>
+<a href="{{ page.external_url }}" class="buttonfixedwidth">Hosted</a>
+<a href="{{ page.github_url }}" class="buttonfixedwidth">Source</a>
 
-<p>
-  <a href="{{ page.github_url }}">Source</span></a>
-</p>
 
 {{ content }}
