@@ -35,3 +35,6 @@ defaults:
       layout: "default"
 
 include: ['_pages']
+
+exclude:
+  - *.puml
