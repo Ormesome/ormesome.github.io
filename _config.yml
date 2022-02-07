@@ -36,5 +36,5 @@ defaults:
 
 include: ['_pages']
 
-exclude:
-  - *.puml
+# exclude:
+#   - *.puml
