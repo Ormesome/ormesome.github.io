@@ -1,7 +1,7 @@
 ---
-title: "The first post"
+title: "Service Broker"
 author: ormesome
-categories: [CATEGORY-1, CATEGORY-3]
+categories: [SQL, Service Broker]
 permalink: /:year/:month/:day/:title:output_ext
 ---
 
