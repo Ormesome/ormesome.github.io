@@ -21,5 +21,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 * [About Me](./about.html)
 * [Contact](./contact.md)
-* [Blog](./blogs.html)
+* [Blogs](./blogs.html)
 * [Projects](./projects.html)
