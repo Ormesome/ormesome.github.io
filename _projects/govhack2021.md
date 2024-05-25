@@ -1,6 +1,5 @@
 ---
 title: Govhack 2021
-# url: /govhack2021
 github_url: https://github.com/Ormesome/govhack2021
 external_url: https://govhack2021.ormesome.com/
 ---

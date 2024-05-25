@@ -1,6 +1,5 @@
 ---
 title: Transaction Insights
-# url: /govhack2021
 github_url: https://github.com/Ormesome/transaction-insights
 external_url: https://ti.ormesome.com/
 ---
