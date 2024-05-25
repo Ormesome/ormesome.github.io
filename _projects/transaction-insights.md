@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Transaction Insights
 github_url: https://github.com/Ormesome/transaction-insights
 external_url: https://ti.ormesome.com/
