@@ -1,6 +1,7 @@
 ---
-title: "The Contact Page"
-permalink: /contact.html
+title: Ormesome on GitHub
+description: The Contact Page
+permalink: /about.html
 ---
 
 # Contact

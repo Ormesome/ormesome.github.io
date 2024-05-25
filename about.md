@@ -1,5 +1,6 @@
 ---
-title: "The About Page"
+title: Ormesome on GitHub
+description: The About Page
 permalink: /about.html
 ---
 
