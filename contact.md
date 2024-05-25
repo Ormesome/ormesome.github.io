@@ -1,7 +1,6 @@
 ---
 title: Ormesome on GitHub
 description: The Contact Page
-permalink: /about.html
 ---
 
 # Contact

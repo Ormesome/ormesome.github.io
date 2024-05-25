@@ -1,7 +1,7 @@
 title: Ormesome on GitHub
 email: david.orme@outlook.com
 # logo: logo-white.png
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "https://ormesome.github.io"
 #twitter_username: "ormesome"
 #github_username:  "ormesome"
@@ -12,7 +12,7 @@ theme: jekyll-theme-leap-day
 show_downloads: false
 # google_analytics:
 
-#collections:
-#  projects:
-#    output: true
-#    permalink: /:collection/:name
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name
