@@ -11,8 +11,3 @@ markdown: kramdown
 theme: jekyll-theme-leap-day
 show_downloads: false
 # google_analytics:
-
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:name
