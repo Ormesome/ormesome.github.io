@@ -3,7 +3,6 @@ layout: project
 title: Transaction Insights
 github_url: https://github.com/Ormesome/transaction-insights
 external_url: https://ti.ormesome.com/
-youtube_url:
 ---
 I built a website to help me analyse my bank statement. This was an exercise in learning JavaScript.
 

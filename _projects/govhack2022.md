@@ -2,8 +2,6 @@
 layout: project
 title: Govhack 2022
 github_url: https://github.com/Ormesome/govhack2022
-external_url:
-youtube_url:
 ---
 GovHack is an annual data hackathon where participants build "something" out of the provided datasets. This was my second outing.
 
