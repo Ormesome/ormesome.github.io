@@ -17,21 +17,3 @@ collections:
   projects:
     output: true
     permalink: /:collection/:name
-
-defaults:
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
-
-include: ['_pages']
