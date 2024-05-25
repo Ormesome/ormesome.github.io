@@ -1,5 +1,6 @@
 ---
 title: "The About Page"
+permalink: /about.html
 ---
 
 # About
