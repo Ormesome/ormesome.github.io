@@ -23,5 +23,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * [Contact](./contact.md)
 * [Blog](./blog.html)
 * [Projects](./projects.html)
-
-![Ormesome Logo](/assets/images/logo-white-25.png)
