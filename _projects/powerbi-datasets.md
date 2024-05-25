@@ -2,7 +2,8 @@
 layout: project
 title: Power BI Datasets
 github_url: https://github.com/Ormesome/PowerBI-Datasets
-external_url: 
+external_url:
+youtube_url:
 ---
 I shared some datasets for teaching Power BI using the Microsoft SQL training datasets.
 
